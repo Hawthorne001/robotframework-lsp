@@ -1324,7 +1324,7 @@
         "vscode-test": "1.5.1"
     },
     "dependencies": {
-        "adm-zip": "^0.5.9",
+        "adm-zip": "^0.5.13",
         "http-proxy-agent": "^2.1.0",
         "https-proxy-agent": "^2.2.4",
         "path-exists": "^4.0.0",
