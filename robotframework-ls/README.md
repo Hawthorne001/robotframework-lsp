@@ -1,5 +1,13 @@
 # [Language Server Protocol](https://github.com/Microsoft/language-server-protocol) implementation for [Robot Framework](https://robotframework.org/)
 
+## Maintenance policy
+
+This extension is part of the Robocorp and Sema4.ai automation and AI agent stack,
+maintained specifically for our customers. While it is free to use, please be aware
+that support for the latest Robot Framework releases may not be available.
+If you’re interested in using the latest Robot Framework for test automation,
+we recommend exploring other extensions.
+
 ## Requirements
 
 Python 3.7+ and [Robot Framework](https://robotframework.org/) 3.2+.
@@ -34,7 +42,7 @@ See: [Contributing](docs/contributing.md) for how to help in the development of 
 
 See: [Reporting Issue](docs/reporting_issues.md) for details on how to report some issue in the `Robot Framework Language Server`.
 
-## Features (1.12.0)
+## Features (1.13.0)
 
 -   Robot Output View:
     -   View current task/test being executed.
